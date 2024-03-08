@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.countdown {
+    margin-top: 50px;
+}
+
+#timer {
+    display: flex;
+    justify-content: center;
+}
+
+#timer span {
+    font-size: 48px;
+    display: block;
+}
+
+.smalltext {
+    font-size: 14px;
+    color: #888;
+}

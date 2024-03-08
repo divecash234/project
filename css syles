@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+ <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> Broken Phone Countdown Timer</title>
+        
+        <link rel="stylesheet" href="./css/styles.css" />
+    </head>
+    <body>
+        <div class="Countdown">
+            <h1>Broken Phone Giveaway Countdown</h1>
+            <div id="timer">
+                <div>
+                    <span id="days"></span>
+                    <div class="smalltext">Days</div>
+                </div>
+                <div>
+                    <span id="hours"></span>
+                    <div class="smalltext">Hours</div>
+                </div>
+                <div>
+                    <span id="minutes"></span>
+                    <div class="smalltext">Seconds</div>
+                </div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+    </html>
+            
